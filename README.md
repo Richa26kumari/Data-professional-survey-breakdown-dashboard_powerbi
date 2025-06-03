@@ -3,7 +3,7 @@
 
 # 📊 Data Professional Survey Breakdown - Power BI Dashboard
 
-![Dashboard Screenshot](images/data_professional_dashboard.png)
+![Dashboard Screenshot](screenshot.png)
 
 ## 🔍 Project Overview
 
